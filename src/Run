@@ -1,0 +1,10 @@
+public class Run {
+
+    public static void main([] args) {
+
+        int num1 = 5, num2 = 15, sum;
+        sum = num1 + num2;
+
+
+    }
+}
